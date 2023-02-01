@@ -62,7 +62,8 @@ const AdminPanel2 = () => {
                 </li>
 
                 <li className="text-center pt-5 pb-md-0 pb-3">
-                  <a href="https://frolicking-yeot-a5dc4d.netlify.app" target="_blank">
+                  <a href="https://frolicking-yeot-a5dc4d.netlify.app" target="_blank"
+                    rel="noopener noreferrer">
                     <button className="btn btn-secondary w-100">
                       <span>مشاهده ی لایو </span>
                       <span className="small"><BsChevronLeft /></span>
